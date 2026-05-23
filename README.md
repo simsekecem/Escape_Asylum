@@ -54,7 +54,6 @@ This repository does not include the third-party asset files themselves due to l
 - **[VR Male Hand (Left & Right)](https://assetstore.unity.com/packages/3d/characters/humanoids/vr-male-hand-left-right-209546):** Humanoid 3D models used for the player's VR hands (by VR).
 - **[Free Horror Ambience 2](https://assetstore.unity.com/packages/audio/music/free-horror-ambience-2-215651):** Atmospheric in-game background audio and soundscapes (by Audio Music).
 - **[Drag & Drop Inventory & Hotbar Framework](https://assetstore.unity.com/packages/tools/gui/drag-drop-inventory-hotbar-framework-333604):** Core framework and user interface (UI) infrastructure for the item mechanics (by GUI Tools).
-- **VirtualGrasp (Gleechi):** Used for realistic hand grasping and physical object interactions.
 - **Unity XR Interaction Toolkit:** The foundation for VR input and interactions.
 
 
@@ -65,6 +64,11 @@ This repository does not include the third-party asset files themselves due to l
 3. Open the main scene located in `Assets/MyScenes` and press Play.
 
 ## Demo Gameplay
+https://github.com/user-attachments/assets/953e877e-1fd1-4a50-9ce2-00a023377e99
+
+https://github.com/user-attachments/assets/1fa3c38c-6e5e-4360-8fea-bffb7dadbbd6
+
+https://github.com/user-attachments/assets/132b8830-c2c5-4cc2-8f02-45ceee4ab331
 
 ---
 This project is prepared for educational and development purposes.
