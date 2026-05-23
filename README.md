@@ -45,8 +45,6 @@ EscapeRoom/
 
 ## Assets Used
 
-## Assets Used
-
 This repository does not include the third-party asset files themselves due to licensing restrictions. You can download them directly from the Unity Asset Store using the links below:
 
 - **[Abandoned Asylum](https://assetstore.unity.com/packages/3d/environments/urban/abandoned-asylum-49137):** Main environmental designs and architectural structures (by 3D Urban).
