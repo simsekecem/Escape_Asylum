@@ -54,14 +54,8 @@ This repository does not include the third-party asset files themselves due to l
 - **[Drag & Drop Inventory & Hotbar Framework](https://assetstore.unity.com/packages/tools/gui/drag-drop-inventory-hotbar-framework-333604):** Core framework and user interface (UI) infrastructure for the item mechanics (by GUI Tools).
 - **Unity XR Interaction Toolkit:** The foundation for VR input and interactions.
 
-
-## Setup and Usage
-
-1. Open the project in Unity (Recommended: 2021.3+).
-2. Ensure `XR Plugin Management` is configured for your VR hardware (Oculus, OpenXR, etc.).
-3. Open the main scene located in `Assets/MyScenes` and press Play.
-
 ## Demo Gameplay
+
 https://github.com/user-attachments/assets/953e877e-1fd1-4a50-9ce2-00a023377e99
 
 https://github.com/user-attachments/assets/1fa3c38c-6e5e-4360-8fea-bffb7dadbbd6
